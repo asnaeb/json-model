@@ -1,0 +1,24 @@
+{
+  "name": "json-models",
+  "version": "0.0.1",
+  "description": "Model utility class for parsing and typing JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asnaeb/json-model.git"
+  },
+  "author": "asnaeb",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/asnaeb/json-model/issues"
+  },
+  "homepage": "https://github.com/asnaeb/json-model#readme",
+  "dependencies": {
+    "eslint": "^8.55.0",
+    "typescript": "^5.3.3",
+    "typescript-eslint-plugin": "^1.2.1"
+  }
+}
